@@ -1,0 +1,2 @@
+# RI-DMV-Rescheduler-Checker
+This repository checks the next available time for RI DMV road text. This is useful for pushing your road test earlier when you only have a late scheduled date. 
